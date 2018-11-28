@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+// https://github.com/michael-ciniawsky/postcss-load-config
+
+module.exports = {
+  "plugins": {
+    "postcss-import": {},
+    "postcss-url": {},
+    // to edit target browsers: use "browserslist" field in package.json
+    "autoprefixer": {}
+  }
+}
+=======
+// https://github.com/michael-ciniawsky/postcss-load-config
+
+module.exports = {
+  "plugins": {
+    "postcss-import": {},
+    "postcss-url": {},
+    // to edit target browsers: use "browserslist" field in package.json
+    "autoprefixer": {}
+  }
+}
+>>>>>>> 82b2a3d70ccf57686b8611d647aafce60097e8a9
